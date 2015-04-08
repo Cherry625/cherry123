@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\Access0407\Access0407\bin\Debug\Access0407.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Access0407\Access0407\obj\Debug\Access0407.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Access0407\Access0407\obj\Debug\Access0407.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Access0407\Access0407\obj\Debug\Access0407.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Access0407\Access0407\obj\Debug\Access0407.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Access0407\Access0407\bin\Debug\Access0407.exe
+c:\users\user\documents\visual studio 2012\Projects\Access0407\Access0407\bin\Debug\Access0407.pdb
+c:\users\user\documents\visual studio 2012\Projects\Access0407\Access0407\obj\Debug\Access0407.exe
+c:\users\user\documents\visual studio 2012\Projects\Access0407\Access0407\obj\Debug\Access0407.pdb
+C:\Users\user\Desktop\access\001\Access0407\Access0407\bin\Debug\Access0407.exe.config
+C:\Users\user\Desktop\access\001\Access0407\Access0407\obj\Debug\Access0407.exe
+C:\Users\user\Desktop\access\001\Access0407\Access0407\obj\Debug\Access0407.pdb
